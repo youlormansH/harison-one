@@ -1,2 +1,0 @@
-# harison-one
-class challenge
